@@ -1,0 +1,4 @@
+#Sun May 27 20:59:22 CEST 2018
+base.0=C\:\\Users\\Ismail\\Desktop\\Courses\\MobileComputing\\WeatherApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
